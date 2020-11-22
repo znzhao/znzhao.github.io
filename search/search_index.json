@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/",
-            "text": "Zhenning Zhao\n\n\n\n    .divimg{\n        margin: 25px;\n        float: left;\n    }\n    .divword{\n        text-align: justify;\n    }\n\n\n\n\n\n\n\n\n\n\n\n\u200b    \n\n\nI am a current Ph.D. Candidate at the University of Texas Austin, Department of Economics. I will receive my Ph.D. degree in 2024.\n\n\n\n\nEmail: \nznzhao@utexas.edu",
+            "text": "Zhenning Zhao\n\n\n\n    .divimg{\n        margin: 5%;\n        float: left;\n        width: 40%\n    }\n    .divword{\n        margin: 10%;\n        text-align: justify;\n    }\n\n\n\n\n\n\n\n\n\n\n    \n\nI am a current Ph.D. Candidate at the University of Texas Austin, Department of Economics. I will receive my Ph.D. degree in 2024.\n\n\n\n\nEmail: \nznzhao@utexas.edu",
             "title": "Home"
         },
         {
             "location": "/#zhenning-zhao",
-            "text": ".divimg{\n        margin: 25px;\n        float: left;\n    }\n    .divword{\n        text-align: justify;\n    }     \n\n\u200b     \nI am a current Ph.D. Candidate at the University of Texas Austin, Department of Economics. I will receive my Ph.D. degree in 2024.  \nEmail:  znzhao@utexas.edu",
+            "text": ".divimg{\n        margin: 5%;\n        float: left;\n        width: 40%\n    }\n    .divword{\n        margin: 10%;\n        text-align: justify;\n    }     \n     \nI am a current Ph.D. Candidate at the University of Texas Austin, Department of Economics. I will receive my Ph.D. degree in 2024.  \nEmail:  znzhao@utexas.edu",
             "title": "Zhenning Zhao"
         },
         {
